@@ -36,3 +36,12 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# H1FN exceptions
+semantic/
+
+# MacOS system file
+.DS_Store
+
+# Node.js Node modules
+node_modules/
