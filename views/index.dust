@@ -20,12 +20,12 @@
 		<!-- Navbar fixed top area -->
 		<div class="ui fixed top menu">
 			<div class="center menu">
-				<a href="index.dust" class="active item">Home</a>
-				<a href="portofolio.dust" class="item">Portofolio</a>
-				<a href="index.dust" class="item logo">Logo</a>
+				<a href="index.dust" class="active item">Partidos</a>
+				<a href="portofolio.dust" class="item">Clasificación</a>
+				<a href="index.dust" class="item logo">H1FN</a>
 				<a href="" class="icon item logo" id="trigger"><i class="sidebar icon"></i></a>
-				<a href="blog.dust" class="item">Blog</a>
-				<a href="about.dust" class="item">About</a>
+				<a href="blog.dust" class="item">Equipos</a>
+				<a href="about.dust" class="item">Pichichi</a>
 			</div>
 		</div>
 		<!-- Collapse Navbar Menu -->
@@ -180,7 +180,7 @@
 		<div class="copyright">
 			Modern Template | Muhibbudin Suretno | Semantic UI
 		</div>
-		
+
 		<!-- <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script> -->
 		<script src="js/jquery.min.js"></script> -->
 		<script src="vendors/semantic.min.js"></script>
