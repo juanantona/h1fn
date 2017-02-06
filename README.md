@@ -1,11 +1,17 @@
-# Free Moderns Template
-Free template with semantic-ui and jQuery
+Gestor de partidos de futbol H1FN
+=============================================
 
-## How to use?
-Download in github or pull master using git and enjoy using this template
+Un gestor simple para gestionar una liguilla de futbol.
 
-## Where demo?
-Demo you can see in http://demo.feelinart.com/
+----------
 
-## Closing
-Thanks for download and review, if you taking bug please report in Issue for maintenance this template. :D
+Tecnologias
+-------------
+
+Se estan utilizando las siguientes tecnologias:
+	- Node.js
+	- Dust.js
+	- Semantic-UI
+	- Gulp
+
+----------
